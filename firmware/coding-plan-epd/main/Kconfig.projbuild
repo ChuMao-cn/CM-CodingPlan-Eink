@@ -1,0 +1,15 @@
+menu "Coding Plan Display"
+
+config ESP_WIFI_SSID
+    string "WiFi SSID"
+    default ""
+
+config ESP_WIFI_PASSWORD
+    string "WiFi Password"
+    default ""
+
+config DATA_URL
+    string "Display JSON URL"
+    default "http://192.168.1.100:8000/display.json"
+
+endmenu

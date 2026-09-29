@@ -1,0 +1,10 @@
+.DS_Store
+tools/
+firmware/coding-plan-epd/build/
+firmware/coding-plan-epd/managed_components/
+firmware/coding-plan-epd/sdkconfig
+firmware/coding-plan-epd/sdkconfig.old
+firmware/coding-plan-epd/log.*.txt
+server/display.json
+server/server.log
+server/server.pid
