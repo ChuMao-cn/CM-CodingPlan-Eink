@@ -1,6 +1,6 @@
 # CM-CodingPlan-Eink
 
-ESP32 + 1.54 寸墨水屏的火山方舟 Coding Plan 用量看板。本地服务读取 Chrome 中的 Coding Plan 页面数据，ESP32 通过局域网定时拉取 JSON 并刷新墨水屏。
+ESP32 + 1.54 寸墨水屏的火山方舟 Coding Plan 用量看板。本地服务读取 Chrome 中的 Coding Plan 页面数据（火山方舟 coding plan 没有开放额度查询接口），ESP32 通过局域网定时拉取 JSON 并刷新墨水屏。
 
 ## 架构
 
